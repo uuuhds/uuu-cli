@@ -1,6 +1,9 @@
-# XX-CLI
+# uuu-cli
 
 `uuu-cli` is a scaffolding solution that includes project initialization, Git integration, ONE-click deployment of OSS and CDN.
+
+[![CI](https://github.com/uuuhds/uuu-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/uuuhds/uuu-cli/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/uuuhds/uuu-cli/branch/main/graph/badge.svg?token=2L02H8SW6Y)](https://codecov.io/gh/uuuhds/uuu-cli)
 
 ## Why?
 
